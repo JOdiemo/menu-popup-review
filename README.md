@@ -1,19 +1,23 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
+> This is my portfolio website.
+> It contain my description, projects, skills and framework and my contacts.
+> It has a curtain menu incoporated
+
 
 > Description the project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+-javascript
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://github.com/JOdiemo/menu-popup-review/tree/menu-popup-review)
 
 
 ## Getting Started
@@ -42,15 +46,11 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@JOdiemo](https://github.com/JOdiemo)
+- Twitter: [@JorumOdiemo](https://twitter.com/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jorumodiemo/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤
 
 ## 🤝 Contributing
 
